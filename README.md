@@ -65,8 +65,8 @@ endmodule
 
 
 ## Timing Diagram:
+![de](https://github.com/Prasannalakshmiganesan/BOOLEAN_FUNCTION_MINIMIZATION/assets/118610231/fbc7926d-3ba1-44fd-9483-fc1aa2d8d2d0)
 
-![312442804-841366e9-cb7c-4e5c-abd8-a60ea7312a77](https://github.com/23004513/BOOLEAN_FUNCTION_MINIMIZATION/assets/138973069/9fef9073-4e3f-4beb-a238-fabd3a74f906)
 
 
 ## Result:
