@@ -35,8 +35,8 @@ A combinational circuit is a circuit in which the output depends on the present 
 
 ## Program:
 ```
-Developed by: Prasannalakshmi G
-RegisterNumber:212222240075
+Developed by: B.R.Abishek
+RegisterNumber:212224110002
 ```
 ```
 module combinationalcircuit(A,B,C,D,F1);
